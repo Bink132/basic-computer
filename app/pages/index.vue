@@ -1,7 +1,7 @@
 <template>
   <section class="min-h-screen flex flex-col justify-center items-center bg-gray-50 p-6">
     <h1 class="text-4xl font-bold mb-12 text-center">
-      Werken met de computer
+      Werken met de computer.
     </h1>
 
     <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
