@@ -45,5 +45,19 @@ const cards = [
     image: '/img/word/word-removebg.png', // plaats je afbeelding in /public/images/
     bgColor: 'bg-blue-500',    // Tailwind kleur
   },
+  {
+    title: 'PowerPoint',
+    description: 'Presentaties maken',
+    to: '/powerpoint',
+    image: '/img/powerpoint/powerpoint-removebg-preview (1).png',
+    bgColor: 'bg-red-500',
+  },
+  {
+    title: 'Excel',
+    description: 'Rekenen en werken met tabellen',
+    to: '/excel',
+    image: '/img/exel/excel-logo.png',
+    bgColor: 'bg-green-500',
+  },
 ]
 </script>
