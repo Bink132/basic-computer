@@ -120,7 +120,7 @@
             </section>
 
             <!-- LES 10 -->
-            <section id="les-10" class="lesson">
+            <section id="les-9" class="lesson">
                 <h2>💾 Les 10: Opslaan</h2>
 
                 <p>Waarom opslaan?</p>
