@@ -56,7 +56,7 @@ const cards = [
     title: 'Excel',
     description: 'Rekenen en werken met tabellen',
     to: '/excel',
-    image: '/img/exel/excel-logo.png',
+    image: '/img/excel/excel-logo.png',
     bgColor: 'bg-green-500',
   },
 ]
